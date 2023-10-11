@@ -1,5 +1,5 @@
 <p align='center'>
-<img height="125" width="300" src="https://github.com/elliotwatt/portfolio-comparison/blob/main/comparison.jpg" alt="logo">
+<img height="150" width="500" src="https://github.com/elliotwatt/portfolio-comparison/blob/main/comparison.jpg" alt="logo">
 
 <h1 align='center'>
 Portfolio Comparison
