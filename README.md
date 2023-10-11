@@ -4,6 +4,8 @@
 <h1 align='center'>
 Portfolio Comparison (Module 4 Challenge)
 
+## Objective
+
 In this challenge, my goal was to compare portfolios of prominent companies-Berkshire Hathaway, Paulson, Soros, and Tiger- to 
 to the S&P 500 and two algorithmic trading strategies. I compared them with standard deviation (daily, annual, and rolling), 
 correlation, beta, sharpe ratios, and exponentially weighted average. Then I plotted cumulative returns for all portfolios for
