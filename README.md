@@ -1,8 +1,8 @@
-<p align='center'>
-<img height="150" width="500" src="https://github.com/elliotwatt/portfolio-comparison/blob/main/comparison.jpg" alt="logo">
-
 <h1 align='center'>
 Portfolio Comparison
+
+<p align='center'>
+<img height="150" width="500" src="https://github.com/elliotwatt/portfolio-comparison/blob/main/comparison.jpg" alt="logo">
 
 ## Objective
 
