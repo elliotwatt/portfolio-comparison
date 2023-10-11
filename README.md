@@ -2,7 +2,7 @@
 <img height="125" width="300" src="https://github.com/elliotwatt/portfolio-comparison/blob/main/comparison.jpg" alt="logo">
 
 <h1 align='center'>
-Portfolio Comparison (Module 4 Challenge)
+Portfolio Comparison
 
 ## Objective
 
